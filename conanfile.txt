@@ -1,0 +1,7 @@
+[requires]
+opengl/system@#b29589c04d6df84c110d6acb066ab653
+gtest/cci.20210126
+
+[generators]
+CMakeDeps
+CMakeToolchain
